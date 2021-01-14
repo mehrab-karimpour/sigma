@@ -1,0 +1,84 @@
+/*
+  Flaticon icon font: Flaticon
+  Creation date: 02/02/2020 06:33
+  */
+
+
+
+@font-face {
+    font-family: "Flaticon";
+    src: url("1e46dc4b5a94ebe8b2ec353f92a1650f.eot");
+    src: url("1e46dc4b5a94ebe8b2ec353f92a1650f.eot?#iefix")
+    format("embedded-opentype"), url("1e46dc4b5a94ebe8b2ec353f92a1650f.woff2")
+    format("woff2"), url("1e46dc4b5a94ebe8b2ec353f92a1650f.woff")
+    format("woff"), url("1e46dc4b5a94ebe8b2ec353f92a1650f.ttf")
+    format("truetype"), url("1e46dc4b5a94ebe8b2ec353f92a1650f.svg#Flaticon")
+    format("svg");
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    @font-face {
+        font-family: "Flaticon";
+        src: url("./1e46dc4b5a94ebe8b2ec353f92a1650f.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+    font-family: Flaticon;
+    font-size: 20px;
+    font-style: normal;
+    margin-left: 20px;
+}
+
+.flaticon-android:before {
+    content: "\f100";
+}
+
+.flaticon-location:before {
+    content: "\f101";
+}
+
+.flaticon-appointment:before {
+    content: "\f102";
+}
+
+.flaticon-passenger:before {
+    content: "\f103";
+}
+
+.flaticon-air-freight:before {
+    content: "\f104";
+}
+
+.flaticon-hotel:before {
+    content: "\f105";
+}
+
+.flaticon-suitcase:before {
+    content: "\f106";
+}
+
+.flaticon-tourist:before {
+    content: "\f107";
+}
+
+.flaticon-door:before {
+    content: "\f108";
+}
+
+.flaticon-door-1:before {
+    content: "\f109";
+}
+
+.flaticon-air-balloon:before {
+    content: "\f10a";
+}
+
+.flaticon-map:before {
+    content: "\f10b";
+}
+
+.flaticon-apple:before {
+    content: "\f10c";
+}
